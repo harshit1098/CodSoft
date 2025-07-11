@@ -67,8 +67,7 @@ titanic-survival-prediction/
 
 ## Results & Accuracy
 
-After testing multiple algorithms, the best-performing model (e.g., Random Forest) achieved around **X% accuracy** on the validation set.  
-(*Replace X with your actual result!*)
+After testing multiple algorithms, the best-performing model (e.g., Random Forest) achieved around **79.3% accuracy** on the validation set.  
 
 ---
 
