@@ -42,7 +42,7 @@ Each task helped me strengthen my understanding of data preprocessing, model bui
 - Linear regression model
 - Mean Squared Error & R² Score
 
-*Dataset:* [Kaggle - IMDb Indian Movies](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)
+*Dataset:* [Kaggle - IMDb Indian Movies](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies) 
 
 > 📁 [Click here for Movie Rating Project Folder]( https://github.com/Anushka-gulia/CodSoft/tree/CodSoft/Task%202%20-%20Movie%20rating%20prediction )
 
@@ -68,11 +68,12 @@ Each task helped me strengthen my understanding of data preprocessing, model bui
 Each project includes a demo video showcasing the model workflow, code walkthrough, and results.
 
 Task 1- Titanic survival prediction 
-Demo video link: 
+Demo video link: https://www.linkedin.com/posts/harshit-gulia-b9b909302_python-datascience-titanic-activity-7349530036879646720-O5HZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1gj2cBTTz7nERtkU5M40KuAvzhXcfSUuA
 Task 2- Movie rating prediction
-Demo video link:
+Demo video link: https://www.linkedin.com/posts/harshit-gulia-b9b909302_python-datascience-mlprojects-activity-7349774639503491073-_W4o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1gj2cBTTz7nERtkU5M40KuAvzhXcfSUuA
 Task 3- Iris flower classification 
-Demo video link:
+Demo video link: https://www.linkedin.com/posts/harshit-gulia-b9b909302_irisdataset-datascience-python-activity-7350175531813797888-1FCD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1gj2cBTTz7nERtkU5M40KuAvzhXcfSUuA
+
 Don't forget to check out the videos tagged with *#codsoft*!
 
 ---
