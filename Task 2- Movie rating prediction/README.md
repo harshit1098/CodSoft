@@ -96,3 +96,8 @@ Email: harshitgulia136@gmail.com
 LinkedIn:(https://www.linkedin.com/in/harshit-gulia-b9b909302)  
 GitHub: (https://github.com/harshit1098)
 
+---
+
+## Demo Video 
+
+https://www.linkedin.com/posts/harshit-gulia-b9b909302_python-datascience-mlprojects-activity-7349774639503491073-_W4o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1gj2cBTTz7nERtkU5M40KuAvzhXcfSUuA
