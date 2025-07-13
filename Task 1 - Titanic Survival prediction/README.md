@@ -89,6 +89,12 @@ Thanks to:
 
 ---
 
+## Demo Video
+
+https://www.linkedin.com/posts/harshit-gulia-b9b909302_python-datascience-titanic-activity-7349530036879646720-O5HZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1gj2cBTTz7nERtkU5M40KuAvzhXcfSUuA
+
+---
+
 ## Author
 
 **Harshit**  
